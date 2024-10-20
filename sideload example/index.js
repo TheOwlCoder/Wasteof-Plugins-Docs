@@ -1,3 +1,4 @@
+import { * } from 'https://raw.githubusercontent.com/TheOwlCoder/Wasteof-Plugins-Docs/refs/heads/main/importAPI.js';
 if (window.location.href == "https://wasteof.money/settings") {
   addMenuDropdown("plugins", "Sideload Plugin Example", "your-id-here");
   addHeaderNode("your-id-here-content", "Example Title");
